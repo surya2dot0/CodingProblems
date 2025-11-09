@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PallindromeNumber {
 
 	public static void pallindromeNumber(int n) {
-        int check = n;
+        int chk = n;
 		int rev = 0;
 		int reminder = 0;
 		while(n > 0) {
